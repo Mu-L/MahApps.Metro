@@ -78,7 +78,7 @@
   <a href="https://www.masterpackager.com/master-packager">
     <img alt="Master Packager" src="./docs/master_packager.png" width="600">
   </a>
-  <p>A professional MSI, MSIX and App-V packaging tool for Windows</p>
+  <p>Software to view, create and edit Microsoft Windows Installer (MSI)/MST files for free</p>
 </div>
 
 ### Markdown Monster
